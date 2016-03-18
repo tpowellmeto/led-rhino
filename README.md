@@ -5,6 +5,6 @@ nodejs stuff for the led rhino project
 Install node.js  
 Upload the node-pixel custom firmata firmware to your arduino  
 run `npm install`  
-run `node express`  
+run `node express.js`  
 wait for the board and lights to initialise  
 go to localhost:3000  
