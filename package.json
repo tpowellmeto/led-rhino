@@ -1,0 +1,23 @@
+{
+  "name": "led-rhino",
+  "version": "1.0.0",
+  "description": "met office informatics lab led rhino code",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name":"thomas powell (tpowellmeto)",
+    "email":"t.powell.meto@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "color-string": "latest",
+    "es6-collections": "latest",
+    "express": "latest",
+    "firmata": "latest",
+    "johnny-five": "latest",
+    "node-pixel": "latest",
+    "socket.io": "latest"
+  }
+}
